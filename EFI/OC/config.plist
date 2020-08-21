@@ -701,7 +701,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 alcid=13 debug=0x100</string>
+				<string>-v keepsyms=1 alcid=17 debug=0x100</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
@@ -764,17 +764,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02324600QXF2FRAD</string>
+			<string>C02324601QXF5FRAD</string>
 			<key>ROM</key>
-			<data>ESIzRFVm</data>
+			<data>ESIZRFWm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac13,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02KV0BRDNCW</string>
+			<string>C02BV0BRDGCW</string>
 			<key>SystemUUID</key>
-			<string>2D5B8852-D34E-48D8-BBDA-BB874ADE6956</string>
+			<string>2D5B8852-D38E-48D8-BBDA-BB874ADE6956</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
