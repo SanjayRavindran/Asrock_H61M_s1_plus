@@ -20,3 +20,9 @@ Configuration is as follows
 You can see my machine in youtube running MacOS catalina 10.15.6 buy using the link below
 
 https://youtu.be/uQnH8_bas90
+
+Credits:
+Thanks for Apple For MacOs
+Thanks for @Acidantera Members for OpenCore
+Thanks for Dortania for the Guide https://dortania.github.io/OpenCore-Install-Guide/
+Thanks For rehabMan For Kexts
