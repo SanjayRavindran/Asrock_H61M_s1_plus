@@ -10,11 +10,11 @@ If you have the Exact same Hardware configuration as like me you can use this EF
  
 - ***4 GB 1600 MHz DDR3 RAM***
  
--***ASRock H61M-S1 Plus MotherBoard***
+- ***ASRock H61M-S1 Plus MotherBoard***
  
--***MSI Nvidia GeForce GT 710 with 2GB Video Memory which is a GK208 chip variant***
+- ***MSI Nvidia GeForce GT 710 with 2GB Video Memory which is a GK208 chip variant***
  
--***Seagate Desktop HDD 1TB Storage***
+- ***Seagate Desktop HDD 1TB Storage***
  
  # Consider Donating this will tremendously helpful for me
 
