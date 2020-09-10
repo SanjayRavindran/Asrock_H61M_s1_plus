@@ -17,8 +17,9 @@ If you have the Exact same Hardware configuration as like me you can use this EF
 - ***Seagate Desktop HDD 1TB Storage***
 
  
- # Consider Donating this will tremendously helpful for me
-
+ # Donate Me!!!
+ 
+Consider Donating this will tremendously helpful for me
 https://paypal.me/SanjayRavindran?locale.x=en_GB
 
 
@@ -28,10 +29,9 @@ https://paypal.me/SanjayRavindran?locale.x=en_GB
 
 # Youtube Link
 
-You can see my machine in youtube running MacOS catalina 10.15.6 buy using the link below
+You can see my machine in youtube running MacOS catalina 10.15.6. I have made a Entire playlist for you.
 
-https://youtu.be/uQnH8_bas90
-
+https://www.youtube.com/playlist?list=PLXJT98QS48vWWbwyYEhaYwbiOTsKgy9K2
 
 
 ### Credits:
