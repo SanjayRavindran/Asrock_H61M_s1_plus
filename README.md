@@ -15,13 +15,21 @@ If you have the Exact same Hardware configuration as like me you can use this EF
 - ***MSI Nvidia GeForce GT 710 with 2GB Video Memory which is a GK208 chip variant***
  
 - ***Seagate Desktop HDD 1TB Storage***
+
  
  # Consider Donating this will tremendously helpful for me
 
 https://paypal.me/SanjayRavindran?locale.x=en_GB
 
-You can see my machine in youtube running MacOS catalina 10.15.6 buy using the link below
+
+# Need Support??
+
+- Email Me: mail2snjyrvndrn@gmail.com
+
 # Youtube Link
+
+You can see my machine in youtube running MacOS catalina 10.15.6 buy using the link below
+
 https://youtu.be/uQnH8_bas90
 
 
