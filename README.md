@@ -6,7 +6,7 @@ If you have the Exact same Hardware configuration as like me you can use this EF
 
 ## Configuration is as follows ##
 
- - ***I3-3220 with Intel HD 2500 iGPU***
+ - ***i3-3220 with Intel HD 2500 iGPU*** (use iMac13,1 SMBIOS If you use i3 processors)
  
 - ***4 GB 1600 MHz DDR3 RAM***
  
