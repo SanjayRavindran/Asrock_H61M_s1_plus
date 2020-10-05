@@ -7,6 +7,7 @@ If you have the Exact same Hardware configuration as like me you can use this EF
 ## Configuration is as follows ##
 
  - ***i3-3220 with Intel HD 2500 iGPU*** (use iMac13,1 SMBIOS If you use i3 processors)
+   - Update 5/10/2020 Changed to MacPro6,1 to get BigSur Stable Update as mentioned in [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/ivy-bridge.html#platforminfo "Dortania Guide")
  
 - ***4 GB 1600 MHz DDR3 RAM***
  
