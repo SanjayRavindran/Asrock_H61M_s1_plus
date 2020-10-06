@@ -37,10 +37,12 @@ https://www.youtube.com/playlist?list=PLXJT98QS48vWWbwyYEhaYwbiOTsKgy9K2
 
 ### Credits:
 
-Thanks for Apple For MacOs
+Thanks for [Apple](https://www.apple.com/ "Apple") For MacOs
 
-Thanks for @Acidantera Members for OpenCore
+Thanks for [Acidantera](https://github.com/acidanthera "Acidantera") for OpenCore
 
-Thanks for Dortania for the Guide https://dortania.github.io/OpenCore-Install-Guide/
+Thanks for [Dortania](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania") for the Guide
 
-Thanks For rehabMan For Kexts
+Thanks for [Mieze](https://github.com/Mieze "Mieze") for providing RTL8111 Driver
+
+Thanks for [Sniki](https://github.com/Sniki "Sniki") and [RehabMan](https://github.com/RehabMan "RehabMan") for USBInjectAll.kext
