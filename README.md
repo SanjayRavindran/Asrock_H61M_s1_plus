@@ -8,6 +8,7 @@ If you have the Exact same Hardware configuration as like me you can use this EF
 
  - ***i3-3220 with Intel HD 2500 iGPU*** (use iMac13,1 SMBIOS If you use i3 processors. Does not work beyond 10.15.x)
    - Update 03/11/2020 Changed to iMac15,1 to run BigSur Stable Update as mentioned in [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/ivy-bridge.html#platforminfo "Dortania Guide")
+   - Updated to BigSur without any issues. Seems to work fine.(just installed. May have some problems.)
  
 - ***4 GB 1600 MHz DDR3 RAM***
  
