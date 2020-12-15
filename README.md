@@ -34,7 +34,7 @@ https://paypal.me/SanjayRavindran?locale.x=en_GB
 
 # Youtube Link
 
-You can see my machine in youtube running MacOS catalina 10.15.6. I have made a Entire playlist for you.
+You can see my machine in youtube running MacOS catalina 10.15.6 or Big Sur. I have made a Entire playlist for you.
 
 https://www.youtube.com/playlist?list=PLXJT98QS48vWWbwyYEhaYwbiOTsKgy9K2
 
