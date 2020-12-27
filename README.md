@@ -1,6 +1,6 @@
 # HackintoshCatalina-Aug2020
 EFI for my Hackintosh Machine
-If you have the Exact same Hardware configuration as like me you can use this EFI for verification purpose.If you are successful please consider donating via PayPal...That would be helpful for to keep creating!!
+If you have the Exact same Hardware configuration as like me you can use this EFI for verification purpose.Please note that even though you have the same processor, you should have the same Mother Board to use my EFI.If you are successful please consider donating via PayPal...That would be helpful for to keep creating!!
 
 **DO NOT BLAME ME IF YOU HAVE DIFFERENT MACHINE AND MADE SOME MESS ON YOUR MACHINE **
 
