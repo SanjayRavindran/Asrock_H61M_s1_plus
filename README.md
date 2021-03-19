@@ -13,7 +13,7 @@ If you have the Exact same Hardware configuration as like me you can use this EF
    - Improved stablity by using SSDT-HPET.<br/>
 - ***4 GB 1600 MHz DDR3 RAM***<br/>
 - ***ASRock H61M-S1 Plus MotherBoard***<br/>
-- ***MSI Nvidia GeForce GT 710 with 2GB Video Memory which is a GK208 chip variant*** (https://amzn.to/3rFLZsp)<br/>
+- ***MSI Nvidia GeForce GT 710 with 2GB Video Memory which is a GK208 chip variant*** (https://amzn.to/2Q9TPNx)<br/>
 - ***Seagate Desktop HDD 1TB Storage***<br/>
 ***Limitation of the MotherBoard(As of my knowlegde) Unable to unlock CFG Lock.***
  
