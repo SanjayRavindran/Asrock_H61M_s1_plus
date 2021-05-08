@@ -7,6 +7,7 @@ If you have the Exact same Hardware configuration as like me you can use this EF
 ## Configuration is as follows ##
 
  - ***i3-3220 with Intel HD 2500 iGPU*** (use iMac13,1 SMBIOS If you use i3 processors, Intel HD 2500 - Hardware acceleration doesnot work. Change below SMBIOS if   you upgrade beyond 10.15.x)
+ - Recently updated to v0.6.9.but the machine is no longer running MacOS.But the EFI is tested on the machine.
    - Updated to OpenCore 0.6.4. I am no longer using this machine for regular usage from Dec-2020. But the EFI was tested on the machine.
    - Updated to BigSur without any issues. Seems to work fine.
    - Update 03/11/2020 Changed to iMac15,1 to run BigSur Stable Update as mentioned in [Dortania Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/ivy-bridge.html#platforminfo "Dortania Guide")
