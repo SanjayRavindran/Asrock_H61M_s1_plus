@@ -17,11 +17,6 @@ If you have the Exact same Hardware configuration as like me you can use this EF
 - ***MSI Nvidia GeForce GT 710 with 2GB Video Memory which is a GK208 chip variant*** <br/>
 - ***Seagate Desktop HDD 1TB Storage***<br/>
 ***Limitation of the MotherBoard(As of my knowlegde) Unable to unlock CFG Lock.***
- 
- # Donate Me!!!<br/>
-Consider Donating this will tremendously helpful for me<br/>
-https://paypal.me/SanjayRavindran?locale.x=en_GB
-
 
 # Youtube Link<br/>
 You can see my machine in youtube running MacOS catalina 10.15.6 or Big Sur. I have made a Entire playlist for you.<br/>
